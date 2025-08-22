@@ -1,5 +1,6 @@
 # Środowisko do testowania aplikacji
-Projekt zakładał stworzenie modularnego środowiska do testowania aplikacji. Pełny opis projektu, architektury, bibliografia, źródła, komentarze znajdują się w pliku pdf.
+Projekt zakładał stworzenie modularnego środowiska do testowania aplikacji. Pełny opis projektu, architektury, bibliografia, źródła, komentarze znajdują się w pliku pdf. Aktywna nawigacja po dokumencie i linki działają po pobraniu.
+
 
 ---
 
